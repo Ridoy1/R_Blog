@@ -1,11 +1,11 @@
 import './App.css';
-import Login from './component/Login/Login';
-import Home from './component/Pages/Home/Home';
-import Register from './component/Register/Register';
-import Setting from './component/Settings/Setting';
-import Single from './component/Single/Single';
-import Topbar from './component/Topbar/Topbar';
-import Write from './component/Write/Write';
+import Login from './components/Login/Login';
+import Home from './components/Pages/Home/Home';
+import Register from './components/Register/Register';
+import Setting from './components/Settings/Setting';
+import Single from './components/Single/Single';
+import Topbar from './components/Topbar/Topbar';
+import Write from './components/Write/Write';
 import {
   BrowserRouter as Router,
   Switch,
